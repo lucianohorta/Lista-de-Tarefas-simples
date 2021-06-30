@@ -1,6 +1,6 @@
 # Lista-de-Tarefas-simples
 Lista de Tarefas simples utilizando ReactJS
-![](preview.png)
+![](preview.gif)
 
 ## Instalar o projeto:
 npm i
